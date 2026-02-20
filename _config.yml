@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bipasha Sen"
+title                    : "Rishi Kewalya"
 title_separator          : "-"
-name                     : &name "Bipasha Sen"
-description              : &description "Bipasha Sen"
-url                      : https://bipashasen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rishi Kewalya"
+description              : &description "Rishi Kewalya"
+url                      : https://rishikewalya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bipashasen/bipashasen.github.io"
+repository               : "Rishikewalya/rishikewalya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : cduvallet
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bipasha Sen"
-  avatar           : "bipasha_sen.jpg"
-  bio              : "Ph.D. at MIT"
-  location         : "Hyderabad, India"
+  name             : "Rishi Kewalya"
+  avatar           : "rishi_kewalya.jpg"
+  bio              : "Data Engineer at ICICI Bank"
+  location         : "Mumbai, India"
   employer         :
-  googlescholar    : "GZZCH-8AAAAJ&hl"
-  email            : "bise@mit.edu"
+  googlescholar    : # Add your Google Scholar ID here
+  email            : "rishikewalya@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,23 +92,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bipashasen"
+  github           : "Rishikewalya"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
-  linkedin         : "bipasha-sen-540a4792"
+  linkedin         : "rishikewalya"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bipashasen31" 
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCU1TMnEt0J1UJZfMW1Gixgg"
+  youtube          :
   wikipedia        :
 
 
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
