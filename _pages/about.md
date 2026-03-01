@@ -27,21 +27,6 @@ What drives my research is the idea of building AI systems that move beyond theo
 <div class="recent_updates">Selected Research</div>
 <span style="font-size:14px;margin-bottom: -25px;display: block;">*Equal Authors / <span class="highlight">Highlighted Papers</span></span>
 
-<div class="research-block highlight">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/teasers/cardiocare.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">CardioCare: Multimodal AI for Cardiac Risk Prediction</div>
-		<div class="sub-title"><b style="color:#a115a0">Rishi Kewalya</b>, University of Mumbai | Prof. Darakhshan Khan <i><br><b>Final Year Thesis, 2024–2025</b></i></div>
-		<span class="research-text">
-		Built a multimodal cardiac diagnosis assistant using Retrieval-Augmented Generation (RAG) on patient records for information retrieval, combined with ECG signals and medical text. Achieved 76.8% Exact Match and 0.83 F1, outperforming GPT-3.5 by 15% on clinical benchmarks. Fine-tuned an LSTM arrhythmia classifier (48 MIT-BIH classes) with chain-of-thought prompting, reaching 0.875 AUC.
-		</span>
-	</div>
-</div>
-
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
@@ -69,21 +54,6 @@ What drives my research is the idea of building AI systems that move beyond theo
 		<div class="sub-title"><b style="color:#a115a0">Rishi Kewalya</b> <i><br><b>IEEE, Nov 2024</b></i><a target="_blank" class="tab_paper" href="#">paper</a></div>
 		<span class="research-text">
 		Proposed a hybrid architecture combining multiheaded CNNs, hand landmark detection, and LLMs to enhance sign language interpretation accuracy and contextual understanding. The system improves robustness over single-model approaches by fusing spatial and semantic signals.
-		</span>
-	</div>
-</div>
-
-<div class="research-block">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/teasers/motionscript.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">MotionScript: Sign Language to Voice Converter</div>
-		<div class="sub-title"><b style="color:#a115a0">Rishi Kewalya</b> <i><br><b>Academic Project</b></i></div>
-		<span class="research-text">
-		Designed and benchmarked 4 CNN-based architectures (including fine-tuned VGG16) on a custom dataset of 36,000+ segmented sign images (A–Z, 0–9; 1,015+ samples/class), achieving 99.63% test accuracy. Integrated a pretrained T5-Flan LLM for semantic sequence refinement and deployed a real-time inference pipeline with speech synthesis (gTTS) for live sign-to-voice conversion.
 		</span>
 	</div>
 </div>
