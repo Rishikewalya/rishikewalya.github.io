@@ -42,21 +42,6 @@ What drives my research is the idea of building AI systems that move beyond theo
 	</div>
 </div>
 
-<div class="research-block highlight">
-	<div class="left">
-		<span class="research-img">
-			<img src="/images/teasers/unisign.gif">
-		</span>
-	</div>
-	<div class="right">
-		<div class="title">Uni-Sign Language Model for Machine Translation</div>
-		<div class="sub-title"><b style="color:#a115a0">Rishi Kewalya</b>, IIT Varanasi | Prof. Sanjay Kumar Singh <i><br><b>Research Internship, Jan–Jun 2025</b></i></div>
-		<span class="research-text">
-		Reproduced and extended the Uni-Sign research architecture on the Chinese Sign Language News dataset (436+ video sequences), achieving &lt;2% deviation from published benchmark accuracy. Executed mixed-precision, multi-GPU distributed training (NVIDIA V100, PyTorch AMP), reducing training time by 48.9% and lowering inference latency by 27.3%. Designed and conducted 15+ controlled experiments, improving F1-score by 6.97% over baseline.
-		</span>
-	</div>
-</div>
-
 <div class="research-block">
 	<div class="left">
 		<span class="research-img">
