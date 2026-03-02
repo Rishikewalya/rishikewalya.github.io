@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Life Lessons"
 permalink: /myart/
 author_profile: true
 ---
