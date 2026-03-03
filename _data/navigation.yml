@@ -3,10 +3,10 @@ main:
   - title: "Updates"
     url: /updates/
     
-  - title: "Blog"
+  - title: "Courses"
     url: /blog/
 
-  - title: "My Art"
+  - title: ""
     url: /myart/
 
   - title: "CV"
